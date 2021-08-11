@@ -3,7 +3,7 @@
 ## Technology Stack:
 ●	C#, .NET 5.0
 
-●	The API should be exposed via GraphQL using HotChocolate library (https://chillicream.com/) v11
+●	HotChocolate library (https://chillicream.com/) v11
 
 ●	Entity Framework Core 5
 
