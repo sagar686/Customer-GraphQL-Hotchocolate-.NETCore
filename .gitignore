@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CustomerGraphQLApi.Tests/bin/Debug/net5.0
+/CustomerGraphQLApi.Tests/obj
+/CustomerGraphQLApi/.config
+/CustomerGraphQLApi/bin/Debug/net5.0
+/CustomerGraphQLApi/obj

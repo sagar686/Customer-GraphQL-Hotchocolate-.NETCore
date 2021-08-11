@@ -1,0 +1,70 @@
+﻿{
+  "data": {
+    "customers": [
+      {
+        "id": "1",
+        "name": "Alexander Carson",
+        "email": "Alexander.Carson@graphqldemo.com",
+        "code": 1001,
+        "status": "ACTIVE",
+        "isBlocked": false
+      },
+      {
+        "id": "2",
+        "name": "Alonso Meredith",
+        "email": "Alonso.Meredith@graphqldemo.com",
+        "code": 1002,
+        "status": "ACTIVE",
+        "isBlocked": false
+      },
+      {
+        "id": "3",
+        "name": "Anand Arturo",
+        "email": "Anand.Arturo@graphqldemo.com",
+        "code": 1003,
+        "status": "ACTIVE",
+        "isBlocked": false
+      },
+      {
+        "id": "4",
+        "name": "Barzdukas Gytis",
+        "email": "Barzdukas.Gytis@graphqldemo.com",
+        "code": 1004,
+        "status": "ACTIVE",
+        "isBlocked": false
+      },
+      {
+        "id": "5",
+        "name": "Li Yan",
+        "email": "Li.Yan@graphqldemo.com",
+        "code": 1005,
+        "status": "ACTIVE",
+        "isBlocked": false
+      },
+      {
+        "id": "6",
+        "name": "Justice Peggy",
+        "email": "Justice.Peggy@graphqldemo.com",
+        "code": 1006,
+        "status": "ACTIVE",
+        "isBlocked": true
+      },
+      {
+        "id": "7",
+        "name": "Norman Laura",
+        "email": "Norman.Laura@graphqldemo.com",
+        "code": 1007,
+        "status": "INACTIVE",
+        "isBlocked": false
+      },
+      {
+        "id": "8",
+        "name": "Olivetto Nino",
+        "email": "Olivetto.Nino@graphqldemo.com",
+        "code": null,
+        "status": "ACTIVE",
+        "isBlocked": false
+      }
+    ]
+  }
+}
